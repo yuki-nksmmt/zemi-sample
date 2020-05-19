@@ -1,1 +1,1 @@
-# zemim-sample
+# zemi-sample
