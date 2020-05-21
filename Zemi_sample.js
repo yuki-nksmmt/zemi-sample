@@ -69,7 +69,7 @@ function draw(){
   image(Futo,mouseX,mouseY,LogoX,LogoY);
   
 //sound
-  let vol = (LogoX-40)/100;
+  let vol = (LogoX-40)/1000;
     sea.loop();
     sea.amp(vol);
   
