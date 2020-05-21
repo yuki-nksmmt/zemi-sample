@@ -43,6 +43,7 @@ function setup() {
   LogoY = 50;
   
   //Cloud
+  let CX,CY;
   CX = ceil(random(width));
   CY = ceil(random(height));
 
